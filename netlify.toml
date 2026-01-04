@@ -1,0 +1,3 @@
+[[headers]]
+  for = "/*"
+  basic_auth = ["admin:haslo123"]
